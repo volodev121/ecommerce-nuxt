@@ -1,4 +1,4 @@
-# artlife-nuxt
+
 
 ## Build Setup
 
